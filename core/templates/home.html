@@ -5,7 +5,11 @@
 {% block content %}
   <h1>Homepage</h1>
   {% if user.is_authenticated %}
+<<<<<<< HEAD
     Hi {{ user.first_name }}!
+=======
+    Hi {{ user.email }}!
+>>>>>>> 2a0e4960be5f6aa99ddaeddef6acf251140f222d
     <p><a href="{% url 'logout' %}">Log Out</a></p>
   {% else %}
     <p>You are not logged in</p>

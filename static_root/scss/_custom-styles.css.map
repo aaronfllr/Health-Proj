@@ -5,5 +5,9 @@
 		"_custom-styles.scss"
 	],
 	"names": [],
+<<<<<<< HEAD
 	"mappings": "AACA,AAAA,EAAE,CAAC;EACD,KAAK,EAAE,GAAG,GACX"
+=======
+	"mappings": "AACA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,IAAI,GACd"
+>>>>>>> 2a0e4960be5f6aa99ddaeddef6acf251140f222d
 }
